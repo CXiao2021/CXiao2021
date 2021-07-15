@@ -1,1 +1,0 @@
-Those are the sources of the codes for some important functions like Sigmoid, ReLU, forward_propagation,etc
