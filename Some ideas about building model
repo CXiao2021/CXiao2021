@@ -1,0 +1,2 @@
+Firstly, we need to draw a brief picture of how does the model looks like. Next, separate the total picture in to small pieces. The useful idea to avoid bugs and mistakes is to 
+finish the model separately, so we can test each different pieces with some made up data. Finally, we stack the pieces to a beatiful picture. 
